@@ -1,6 +1,26 @@
-# 💫 About Me:
-👋 Hey, I'm Ian Wu!<br>🚀 Software Engineer | Distributed Systems | Cloud Computing<br><br>Passionate about building high-performance systems and scalable architectures that power the future. I specialize in distributed computing, cloud-native development, and backend engineering, with a focus on performance optimization and fault tolerance.<br><br>💡 What I do:<br><br>🏗 Distributed Systems – Designed a distributed KV storage system handling 14,000 QPS with Raft consensus for high availability.<br>⚡ Cloud-Native Solutions – Migrated a monolithic task scheduling system into a scalable, cloud-native architecture using Rust, NAT, Kubernetes, and AWS.<br>📈 High-Performance Applications – Engineered an e-commerce platform that handles 2,000+ QPS using Spring Cloud, Redis, and Kafka.<br>🎨 Full-Stack Development – Built responsive, high-efficiency platforms using React, Next.js, Java Spring Boot, and Redux.<br>🌍 Tech Stack: Rust, Java, Python, Spring Boot, Kubernetes, AWS, Kafka, Elasticsearch, Redis, and more.<br><br>🔍 Always exploring the intersection of cloud computing, system design, and AI-driven automation.<br><br>📫 Let's connect!<br>💼 LinkedIn https://www.linkedin.com/in/ianwu0915/ | 🌐 Portfolio https://ianwu.netlify.app/ | 📧 wu.hsin@northeastern.edu
+### 🚀 About Me  
 
+Hey, I’m **Ian Wu**—a **Software Engineer** passionate about **building high-performance, scalable systems** that power the future. I specialize in **distributed computing, cloud-native development, and backend engineering**, crafting **fast, fault-tolerant** solutions.  
+
+### ⚡ What I Build  
+🔹 **Distributed Systems** – Scaled a KV store to **14,000+ QPS** with **Raft consensus** for high availability.  
+🔹 **Cloud-Native Solutions** – Transformed monolithic workloads into **scalable, cloud-native architectures** using **Rust, Kubernetes, and AWS**.  
+🔹 **High-Performance Engineering** – Built an e-commerce backend processing **2,000+ QPS** with **Spring Cloud, Redis, and Kafka**.  
+🔹 **Full-Stack Development** – Designed sleek, **high-efficiency platforms** with **React, Next.js, and Spring Boot**.  
+
+### 🔥 Currently Building  
+🚀 A **distributed cloud-native task-scheduling system** for a **stealth startup**, leveraging **Rust, NATS, AWS, and Kubernetes** to power **trading simulations**.  
+
+### 💡 Tech I Love  
+**Rust** | **Java** | **Python** | **AWS** | **Kubernetes** | **Kafka** | **Redis** | **Elasticsearch** | **React**  
+
+### 🌎 Always Exploring  
+Cloud computing, **AI-driven automation**, and **the future of distributed systems**.  
+
+### 📫 Let’s Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/ianwu0915/) | 🌐 [Portfolio](https://ianwu.netlify.app/) | 📧 wu.hsin@northeastern.edu  
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/midnight_foodiy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ianwu0915/) 
