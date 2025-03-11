@@ -10,6 +10,7 @@ Hey, I’m **Ian Wu**—a **Software Engineer** passionate about **building high
 
 ### 🔥 Currently Building  
 🚀 A **distributed cloud-native task-scheduling system** for a **stealth startup**, leveraging **Rust, NATS, AWS, and Kubernetes** to power **trading simulations**.  
+🚀 A **full-stack web application** for **automated job searching and matching platform**, using **React, Vite, FastAPI and Postgres**, just complete the first version and optimizing it. 
 
 ### 💡 Tech I Love  
 **Rust** | **Java** | **Python** | **AWS** | **Kubernetes** | **Kafka** | **Redis** | **Elasticsearch** | **React**  
