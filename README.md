@@ -13,7 +13,7 @@ Hey, I’m **Ian Wu**—a **Software Engineer** passionate about **building high
 🚀 A **full-stack web application** for **automated job searching and matching platform**, using **React, Vite, FastAPI and Postgres**, just complete the first version and optimizing it. 
 
 ### 💡 Tech I Love  
-**Rust** | **Java** | **Python** | **AWS** | **Kubernetes** | **Kafka** | **Redis** | **Elasticsearch** | **React**  
+**Go** | **Rust** | **Java** | **Python** | **AWS** | **Kubernetes** | **NATS** | **Kafka** | **Redis** | **Elasticsearch** | **React**  
 
 ### 🌎 Always Exploring  
 Cloud computing, **AI-driven automation**, and **the future of distributed systems**.  
